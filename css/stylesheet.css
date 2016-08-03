@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Sen-Bold';
+  src: url('Sen-Bold.eot?#iefix') format('embedded-opentype'),  url('Sen-Bold.otf')  format('opentype'),
+	     url('Sen-Bold.woff') format('woff'), url('Sen-Bold.ttf')  format('truetype'), url('Sen-Bold.svg#Sen-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sen-Regular';
+  src: url('Sen-Regular.eot?#iefix') format('embedded-opentype'),  url('Sen-Regular.otf')  format('opentype'),
+	     url('Sen-Regular.woff') format('woff'), url('Sen-Regular.ttf')  format('truetype'), url('Sen-Regular.svg#Sen-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
